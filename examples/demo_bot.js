@@ -23,7 +23,7 @@ This bot demonstrates many of the core features of Botkit:
 
   Run your bot from the command line:
 
-    token=<MY TOKEN> node demo_bot.js
+    token=<xoxb-20533606785-Bgfc3LBYoXvzoTNfcS8B8tVt> node demo_bot.js
 
 # USE THE BOT:
 
